@@ -1,0 +1,36 @@
+body{
+    background: url("../img/home.jfif") no-repeat;
+    background-size: cover;
+}
+
+.form-box{
+    margin-top: 100px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    background-color: rgb(237, 187, 187, 0.7);
+}
+
+h1{
+    text-align: center;
+
+}
+
+input, textarea {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
